@@ -12,7 +12,7 @@ Welcome to the Orange Scroll Master repository! This project allows you to scrol
    - Ensure Python is installed along with the required libraries: OpenCV, numpy, and pyautogui.
    - Clone this repository:
      ```
-     git clone https://github.com/your_username/orange-scroll-master.git
+     git clone 
      ```
    - Install dependencies:
      ```
